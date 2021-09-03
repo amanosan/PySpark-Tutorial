@@ -1,0 +1,11 @@
+name,department,salary
+john,datascience,10000
+john,iot,5000
+mark,bigdata,4000
+john,bigdata,3000
+mark,datascience,8000
+shawn,datascience,15000
+shawn,iot,3500
+shawn,bigdata,7000
+dorothy,datascience,6500
+dorothy,bigdata,4500
